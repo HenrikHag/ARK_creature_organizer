@@ -1,0 +1,93 @@
+####### Tools
+
+#### Is ######################
+
+## Guns ##
+BP_Crossbow 185.4
+BP_Longneck 161.2
+BP_Shot 134.3
+BP_Snipe 189.1
+
+Longneck 161.3
+Shot 186.1
+
+## Armor ##
+### Flak
+BP_Helmet 273.2
+BP_Hand 144.2
+BP_Legg 349.3
+BP_Boot 323.5
+
+### Ghillie
+BP_Chest 50.1
+
+## Saddle ##
+BP_Anky 54.5
+BP_Bary 37.7
+BP_Basil 39.6
+BP_Bronto 42.0
+BP_Carbon 25.4
+BP_Doed 34.1
+BP_Ichthy 41.8
+BP_Mammoth 58.9
+BP_Megather 42.9
+BP_Pter 43.3
+BP_Rex 39.4
+BP_Spino 58.8
+BP_Stego 66.4
+BP_Trike 54.4
+
+
+
+
+#### SE ######################
+
+## Saddle ##
+BP_Hyae 42.4
+BP_Lym 83.2
+BP_Morel 61.3
+
+
+
+
+#### RA ######################
+
+## Guns ##
+BP_Crossbow 313.2 Is
+BP_Shot 140.2 Is
+Crossbow 312
+
+## Saddle ##
+BP_Bary 53.8 Is
+BP_Daeo 82.8 Is
+BP_Doed 44.5 Is
+BP_Gas 96.8 Is
+BP_Gacha 121.4 Is
+BP_Lym 42.3 Is
+
+
+
+
+#### CE ######################
+
+## Armor ##
+BP_MShield 3672
+
+## Saddle ##
+BP_Equus 63.4
+BP_Mammoth 58.8
+
+
+
+
+####### Tamings ##############
+
+#### Ce ######################
+150 Turtle # Next to 1st base
+150 Rex # Giga island
+174 Quetz # North between lava, 1st and 2nd
+# South close
+150 P horse
+# South low
+150 P horse
+150 P horse - 83 45
