@@ -70,7 +70,7 @@ def PlotCreatureStat(stat='Health',creature='Doed'):
     elif stat == 'Melee':
         n=5
     else:
-        print('stat not defined... Try: Big letter, 1st word')
+        print('stat not defined...\nAvailable stats: Health, Stamina, Oksygen, Food, Weight, Melee')
         return 1
     if len(creaturelist) == 0:
         print('No creatures in list')
