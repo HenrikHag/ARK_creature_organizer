@@ -29,9 +29,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Run ARK_dinos
       run: |
-        python ./ARK_creatures.py
-    - name: Test functions in python terminal
-      run: python -c "Best_Creature('Rex')"
+        python ./ARK_creatures.py; python -c "print(Best_Creature('Rex'))"
     #     pip install flake8 pytest
     # - name: Lint with flake8
     #   run: |
