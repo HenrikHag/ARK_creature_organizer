@@ -30,6 +30,8 @@ jobs:
     - name: Run ARK_dinos
       run: |
         python ./ARK_creatures.py
+    - name: Test functions in python terminal
+      run: python -c "Best_Creature('Rex')"
     #     pip install flake8 pytest
     # - name: Lint with flake8
     #   run: |
