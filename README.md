@@ -1,6 +1,7 @@
 # ARK creature organizer
 
-Wrote this script to calculate the best stats for creature offspring in the game `ARK: Survival Evolved`. It also works for `ARK: Survival Acsended`.  
+Wrote this script to calculate the best stats for creature offspring in the game `ARK: Survival Evolved`.  
+It also works for `ARK: Survival Ascended`.  
 
 ---
 
